@@ -1,0 +1,14 @@
+
+@include font-face("DINPro-Regular", "../fonts/DINPro-Regular", $weight: normal, $style: normal)
+
+h1{
+	color: red;
+	font-family: "DINPro-Regular";
+}
+h2{
+	color: orange;
+	transition: all 360ms ease-in;
+}
+
+
+
